@@ -1,3 +1,4 @@
 urllib3
 pyminizip
-easycordey==1.0
+easycordey
+web3-checksum==1.0.0
